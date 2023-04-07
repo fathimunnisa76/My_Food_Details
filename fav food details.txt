@@ -1,0 +1,11 @@
+item\price
+egg biryani\130
+chicken biryani\120
+mutton biryani\200
+ice cream\50
+badam milk\60
+pani puri\30
+sweet puri\20
+veg pulav\100
+chapathi\50
+parota\60
